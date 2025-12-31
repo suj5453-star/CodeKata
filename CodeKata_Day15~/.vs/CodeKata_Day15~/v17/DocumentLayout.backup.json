@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\UE5\\CodeKata\\CodeKata_Day15~\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D784AC5F-8083-4B82-AA10-CB28A448A64F}|CodeKata_Day15~\\CodeKata_Day15~.vcxproj|C:\\UE5\\CodeKata\\CodeKata_Day15~\\CodeKata_Day15~\\Day16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D784AC5F-8083-4B82-AA10-CB28A448A64F}|CodeKata_Day15~\\CodeKata_Day15~.vcxproj|solutionrelative:CodeKata_Day15~\\Day16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D784AC5F-8083-4B82-AA10-CB28A448A64F}|CodeKata_Day15~\\CodeKata_Day15~.vcxproj|C:\\UE5\\CodeKata\\CodeKata_Day15~\\CodeKata_Day15~\\Day15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D784AC5F-8083-4B82-AA10-CB28A448A64F}|CodeKata_Day15~\\CodeKata_Day15~.vcxproj|solutionrelative:CodeKata_Day15~\\Day15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Day16.cpp",
+              "DocumentMoniker": "C:\\UE5\\CodeKata\\CodeKata_Day15~\\CodeKata_Day15~\\Day16.cpp",
+              "RelativeDocumentMoniker": "CodeKata_Day15~\\Day16.cpp",
+              "ToolTip": "C:\\UE5\\CodeKata\\CodeKata_Day15~\\CodeKata_Day15~\\Day16.cpp",
+              "RelativeToolTip": "CodeKata_Day15~\\Day16.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T00:34:07.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Day15.cpp",
               "DocumentMoniker": "C:\\UE5\\CodeKata\\CodeKata_Day15~\\CodeKata_Day15~\\Day15.cpp",
               "RelativeDocumentMoniker": "CodeKata_Day15~\\Day15.cpp",
               "ToolTip": "C:\\UE5\\CodeKata\\CodeKata_Day15~\\CodeKata_Day15~\\Day15.cpp",
               "RelativeToolTip": "CodeKata_Day15~\\Day15.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-31T00:26:00.521Z",
               "EditorCaption": ""
