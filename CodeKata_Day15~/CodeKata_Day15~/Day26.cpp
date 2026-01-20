@@ -9,7 +9,7 @@ char* solution(const char* phone_number) {
 
     if (!answer) { return NULL; } // 오류 처리
 
-    if (len >= 4 || len <= 20) {
+    if (len >= 4 && len <= 20) {
         for (int i = 0; i < len; i++) {
             if (i < len - 4) {
                 answer[i] = '*';
