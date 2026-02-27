@@ -10,20 +10,20 @@ int solution(int n) {
 
     int quotient = n;
     int remainder = 0;
-    for (int i = 0; i < n; i++)
+    for (int i = 0; quotient != 0; i++)
     {
         if (quotient == 0)
             break;
 
-        remainder = n % 3;
-        quotient = n / 3;
+        remainder = quotient % 3;
+        quotient /= 3;
 
         vec.push_back(remainder);
     }
 
     for (int i = 0; i < vec.size(); i++)
     {
-        answer += vec[i] * pow(3, i);
+        answer += vec[i] * pow(3, vec.size() - (i + 1));
     }
 
     return answer;
